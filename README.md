@@ -5,7 +5,7 @@ The purpose of the Python programs is to generate an array based off a visual re
 - Single Matrix Software: This software is to generate an array for a 4-matrix MAX7219 controlled LED Matrix (commonly found on Ebay and similar)
 
 Both software generate a column-addressed array. That means that each array element is a column, each bit on an array element represents a row on the selected column.
-More documentation about this software can be found on it's site [here!](https://www.electro707.com/documentation/Software/led_matrix_generator/)
+More documentation about this software can be found on it's site [here!](https://www.electro707.com/documentation/Software/LED_matrix_generator/)
 
 Both software require Python3, as well as the following python libraries/packages in order to work:
 - Tkinter
