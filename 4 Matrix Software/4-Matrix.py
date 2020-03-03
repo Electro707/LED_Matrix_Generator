@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 ########################################################################################################################
 # Written by Jamal Bouajjaj
 # The purpose of this program is to generate an array for a 4-matrix LED module to be used with the 
